@@ -84,4 +84,7 @@ This vulnerability can affect all Motan users stay on version 1.1.8 or lower. An
 ## repair plan
 Add Hessian's deserialization blacklist
 
+ps:
+java version < 8u181
+
 
